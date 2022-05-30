@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1653575234778",
+      "email": "sunil14@gmail.com",
+      "password": "asdfgh",
+      "userType": "user"
+    },
+    {
+      "id": "1653629370280",
+      "email": "sunilpawar141096@gmail.com",
+      "password": "sunil@123",
+      "userType": "admin"
+    },
+    {
+      "id": "1653636769651",
+      "email": "user123@gmail.com",
+      "password": "user123",
+      "userType": "user"
+    }
+  ]
+}
